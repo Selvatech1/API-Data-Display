@@ -1,0 +1,19 @@
+body {
+   
+    background-color: rgb(188, 239, 188);
+   
+}
+
+.card {
+    margin: 25px;
+}
+
+.card-title {
+    font: italic small-caps bold 20px/15px Georgia, serif;
+    color: #35b535;
+}
+
+.card-text {
+    font-size: 1.2rem;
+    font-style: oblique;
+}
